@@ -1,0 +1,9 @@
+fastapi==0.112.2
+uvicorn[standard]==0.30.6
+pydantic==2.8.2
+torch>=2.6.0
+torchvision>=0.21.0
+pillow
+pandas
+numpy
+scikit-learn
